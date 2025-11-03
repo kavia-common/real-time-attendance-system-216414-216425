@@ -1,0 +1,7 @@
+# This file is used by Flutter tooling to keep local project state.
+# Placeholder values to help CI analyzers identify the Flutter project root.
+{
+  "project_type": "app",
+  "organization": "com.example",
+  "platforms": ["android"]
+}
