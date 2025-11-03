@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Environment
+
+Create a `.env` file at the project root (see `.env.example`) and set:
+- `BACKEND_BASE_URL` (e.g., `http://10.0.2.2:8000` for Android emulator)
+
+The `.env` file is already listed under `flutter.assets` in `pubspec.yaml`. The app loads it at startup to configure the API client.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

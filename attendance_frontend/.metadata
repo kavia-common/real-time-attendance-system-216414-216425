@@ -1,7 +1,21 @@
-# This file is used by Flutter tooling to determine the project root and tracks version/metadata.
-# It should not be manually edited in normal workflows.
+# This file is used by Flutter to determine the project root and tooling versions.
+# It is safe to commit to source control.
+
 version:
-  revision: stable
-  channel: stable
+  revision: "unknown"
+  channel: "stable"
 
 project_type: app
+
+migration:
+  platforms:
+    - android
+    - ios
+    - linux
+    - macos
+    - web
+    - windows
+  unmanaged_files:
+    - "android/local.properties"
+    - "ios/Runner/GeneratedPluginRegistrant.*"
+    - "macos/Flutter/GeneratedPluginRegistrant.*"
