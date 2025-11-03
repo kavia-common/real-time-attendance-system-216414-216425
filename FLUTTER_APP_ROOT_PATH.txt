@@ -1,0 +1,2 @@
+# Absolute path to the Flutter app root for CI discovery:
+attendance_frontend

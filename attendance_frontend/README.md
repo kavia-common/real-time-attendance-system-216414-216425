@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Project root (for CI tools): real-time-attendance-system-216414-216425/attendance_frontend
+
 ## Environment
 
 Create a `.env` file at the project root (see `.env.example`) and set:

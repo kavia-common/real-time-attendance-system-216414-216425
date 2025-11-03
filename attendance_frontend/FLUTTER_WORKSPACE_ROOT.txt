@@ -1,0 +1,3 @@
+# This file helps CI tooling detect the Flutter project root.
+# Do not remove. It should be present at the Flutter app root directory.
+# Path: real-time-attendance-system-216414-216425/attendance_frontend
